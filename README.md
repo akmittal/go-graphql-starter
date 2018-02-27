@@ -35,6 +35,12 @@ Run project
 go run main.go
 ```
 
+Open graphiql editor
+
+```
+http://localhost:8000/graphiql
+```
+
 ## Running the tests
 
 Need to add tests
