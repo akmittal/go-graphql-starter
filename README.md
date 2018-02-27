@@ -1,6 +1,6 @@
 # Go Graphql Starter Kit
 
-This 
+A boilerplate for golang Graphql starter project. Aim for this project is to help get started with new projects.
 
 ## Getting Started
 
@@ -8,11 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+You need to have a postgres instance running and dep should be installed for installing dependencies
 
 ### Installing
 
@@ -54,7 +50,7 @@ Need to add tests
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/akmittal/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -64,7 +60,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Amit Mittal** - *Initial work* - [Akmittal](https://github.com/Akmittal)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/akmittal/go-graphql-starter/contributors) who participated in this project.
 
 ## License
 
