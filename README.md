@@ -49,10 +49,10 @@ Need to add tests
 ## Built With
 
 * [graphql-go](https://github.com/neelance/graphql-go) - Graphql Library
-* [ozzo-validation](https:/github.com/go-ozzo/ozzo-validation) - Validation Library
-* [pq](https://rgithub.com/lib/pq) - Postgres Driver
+* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - Validation Library
+* [pq](https://github.com/lib/pq) - Postgres Driver
 * [bcrypt](https://golang.org/x/crypto/bcrypt) - Bcrypt for JWT tokens
-* [sqlx](https:/github.com/jmoiron/sqlx) - sql helper library
+* [sqlx](https://github.com/jmoiron/sqlx) - sql helper library
 
 ## Contributing
 
